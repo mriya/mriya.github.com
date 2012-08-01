@@ -2,12 +2,12 @@
 
 #main {
 	position: absolute;
-	width: 290px;
-	height: 436px;
+	width: 241px;
+	height: 361px;
 	left: 50%;
 	top: 50%;
-	margin-left: -145px;
-	margin-top: -218px;
-	background: url(../images/logo-with-text.png) no-repeat;
+	margin-left: -120px;
+	margin-top: -180px;
+	background: url(../images/logo-with-text.png) no-repeat; /* 241 x 361 */
 	overflow: hidden;
 }
