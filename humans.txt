@@ -2,13 +2,14 @@
 	
 	Developer: dva
 	URL: 2citizen.com
-
-/* SITE */
-	
-	Created: 01 August 2012
-	URL: mriya-clinic.com
+	Twitter: @2citizen
 
 /* THANKS */
 
 	GitHub pages
 	URL: pages.github.com
+
+/* SITE */
+	
+	Created: 01 August 2012
+	URL: mriya-clinic.com
