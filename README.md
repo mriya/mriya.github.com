@@ -1,4 +1,4 @@
-mriya.github.com
+Clinic "Mriya"
 ================
 
-mriya-clinic.com
+[mriya-clinic.com](http://mriya-clinic.com)

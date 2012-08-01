@@ -1,0 +1,19 @@
+/*@import url(normalize.css);*/
+/*@import url(snippets.css);*/
+
+/*290 x 436*/
+
+#main {
+	position: absolute;
+	width: 290px;
+	height: 436px;
+	left: 50%;
+	top: 50%;
+	margin-left: -145px;
+	margin-top: -218px;
+	background: url(../images/logo-with-text.png) no-repeat;
+	/*background: #fc0;*/
+	/*border: solid 1px black;*/
+	/*padding: 10px;*/
+	overflow: auto;
+}
